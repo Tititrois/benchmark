@@ -22,6 +22,13 @@ cd typeorm
 yarn
 yarn start
 cd ..
+
+# for typegoose 
+cd typegoose
+yarn
+yarn start
+yarn start lean
+cd ..
 ```
 
 ## Results
